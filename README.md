@@ -1,0 +1,1 @@
+This is also a linked list mini program project for accessing products either as a customer who will order or an admin who will check or add stocks. This was made without prior knowledge to proper backend structure that is why it uses hardcoded backend and is not fixed.
